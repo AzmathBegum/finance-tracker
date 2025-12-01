@@ -34,7 +34,9 @@ ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
     "finance-tracker-1-5akg.onrender.com",
+    ".onrender.com",
 ]
+
 
 
 
